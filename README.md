@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente cursando Ciência da Computação na Universidade<br>Estadual Paulista (UNESP) 
+Atualmente cursando Ciência da Computação na Universidade Estadual Paulista (UNESP) 
 
 
 ## 🌐 Socials:
